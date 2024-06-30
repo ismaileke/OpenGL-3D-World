@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\user\3DProjects\Minecraft\Main.cpp(117,21): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\user\3DProjects\Minecraft\Main.cpp(126,29): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Minecraft.vcxproj -> C:\Users\user\3DProjects\Minecraft\x64\Debug\Minecraft.exe
